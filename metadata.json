@@ -1,0 +1,7 @@
+{
+  "name": "SignBuddy Kids",
+  "description": "A gamified, interactive sign language learning app for children aged 3-10. Features AI-powered sign verification, colorful rewards, and offline-ready lesson content.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
